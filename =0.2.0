@@ -1,0 +1,17 @@
+Collecting LangSegment
+  Using cached LangSegment-0.3.3-py3-none-any.whl.metadata (15 kB)
+Requirement already satisfied: numpy>=1.19.5 in /home/yimi/anaconda3/envs/gpt_sovits/lib/python3.9/site-packages (from LangSegment) (1.24.3)
+Collecting py3langid>=0.2.2 (from LangSegment)
+  Using cached py3langid-0.3.0-py3-none-any.whl.metadata (13 kB)
+Collecting numpy>=1.19.5 (from LangSegment)
+  Using cached numpy-2.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (60 kB)
+Using cached LangSegment-0.3.3-py3-none-any.whl (21 kB)
+Downloading py3langid-0.3.0-py3-none-any.whl (746 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 746.1/746.1 kB 6.5 MB/s eta 0:00:00
+Using cached numpy-2.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (19.5 MB)
+Installing collected packages: numpy, py3langid, LangSegment
+  Attempting uninstall: numpy
+    Found existing installation: numpy 1.24.3
+    Uninstalling numpy-1.24.3:
+      Successfully uninstalled numpy-1.24.3
+Successfully installed LangSegment-0.3.3 numpy-2.0.1 py3langid-0.3.0

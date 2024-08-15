@@ -1,0 +1,1 @@
+SoVITS_weights/funi_e8_s88.pth
